@@ -1,1 +1,1 @@
-# cardsgame
+# This is developing game
