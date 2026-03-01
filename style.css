@@ -1,0 +1,25 @@
+body {
+    background-color: #0b6623;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.card-img {
+    width: 70px;
+    height: 100px;
+    margin: 5px;
+    transition: transform 0.2s;
+}
+
+.card-img:hover {
+    transform: scale(1.1);
+}
+
+.player-area {
+    margin: 20px;
+}
+
+h3 {
+    margin-bottom: 5px;
+}
